@@ -1,1 +1,1 @@
-<h1>Loganathan M</h1>
+<h1>Loganathan</h1>
