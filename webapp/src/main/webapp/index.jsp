@@ -1,1 +1,1 @@
-<h1>Tomcat Projet Build - So much of error</h1>
+<h1>Tomcat Projet Build</h1>
